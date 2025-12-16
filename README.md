@@ -12,6 +12,7 @@ A collection of awesome Python frameworks, libraries, software, programs and res
 - [Modern CLI](#modern-cli)
 - [Code Quality](#code-quality)
 - [Hidden Gems](#hidden-gems)
+- [Scripts](#scripts)
 
 ## Web Frameworks
 
@@ -52,6 +53,12 @@ A collection of awesome Python frameworks, libraries, software, programs and res
 
 - [loguru](https://loguru.readthedocs.io/) - Logging made stupidly simple
 - [python-dotenv](https://github.com/thecdp/python-dotenv) - Read key-value pairs from .env files
+
+## Scripts
+
+| Script                                   | Link                                                                                                                                                     | Description                                                                                                                                                       |
+| ---------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Hat Python                         | [Black Hat Python](https://github.com/DhanushNehru/python-for-lazy-devs/Scripts/tree/main/Black%20Hat%20Python)                                                      | Source code from the book Black Hat Python     
 
 ---
 
