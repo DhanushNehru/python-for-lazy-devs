@@ -28,6 +28,7 @@ A collection of awesome Python frameworks, libraries, software, programs and res
 
 - [Polars](https://pola.rs/) - Lightning-fast DataFrame library written in Rust (2-10x faster than pandas)
 - [DuckDB](https://duckdb.org/) - In-process SQL OLAP database, perfect for data analysis
+- [Apache Airflow](https://airflow.apache.org/) - Open-source platform for authoring, scheduling, and monitoring data engineering workflows and ETL pipelines
 
 ## Developer Tools
 
